@@ -57,3 +57,11 @@ section#rede-sociais img:hover{
     transition: transform .3s, border 1s;
 
 }
+
+@media screen and (max-width:768px){
+    section#telefon{
+        position: absolute;
+        width: 1024px;
+
+    }
+}
